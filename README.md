@@ -68,6 +68,7 @@ Unmarked -> Not finished or not started
 - [ ] Add Multi-Threading
 - [ ] Add Regex to check mails
 - [ ] Add the option to style text with markdown
+- [ ] Hide Console
 
 ## 📝 Changelog
   
